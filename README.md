@@ -1,2 +1,1 @@
-# Demented-Care-Tracking-System
-Demented-Care-Virtual-System
+# demented-care-app
